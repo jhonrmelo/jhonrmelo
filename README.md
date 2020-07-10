@@ -3,11 +3,11 @@
 ## Hello there! 👋
 ###  :exclamation: About me
 I'm a 19 years old software developer and tech enthusiastic, actually working at <a href="https://www.fitcard.com.br/"> Fitcard </a> as a fullstack web developer. <br>
-I also like study about :moneybag: and finance things, so if you know an great investment, tell me!
+I also like study about :moneybag: and finance things, so if you know a great investment feel free to tell me!
 
 
 ###  :computer: Stack
-Thats are my favorite stacks to learn and study about :arrow_down:
+These are my favorite stacks to learn and study about :arrow_down:
 
 - :computer: Back-End: C#, Javascript(NodeJS) and java
 - 👨🏼‍💻  Front-end: HTML5, CSS3, JavaScript (ES6+) and TypeScript 
