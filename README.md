@@ -15,3 +15,6 @@ These are my favorite stacks to learn and study about :arrow_down:
 - :thought_balloon: IDEs: Visual Studio and Visual Studio Code
 
 I also like to study about C/C++ data structures (see this repository: <a href="https://github.com/jhonrmelo/C-things"> C-Things </a>).
+
+
+[![jhonrmelo's github stats](https://github-readme-stats.vercel.app/api?username=jhonrmelo)](https://github.com/jhonrmelo/github-readme-stats)
