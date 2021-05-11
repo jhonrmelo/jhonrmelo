@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-rmelo/)](https://www.linkedin.com/in/jonathan-rmelo/)
 ## Hello there! 👋
 ###  :exclamation: About me
-I'm a 20 years old software developer and tech enthusiastic, actually working at <a href="https://www.fitcard.com.br/"> Fitcard </a> as a fullstack web developer. <br>
+I'm a 20 years old software developer and tech enthusiastic, actually working at <a href="https://www.xpinc.com/"> XP Inc. </a> as a fullstack web developer. <br>
 I also like study about :moneybag: and finance things, so if you know a great investment feel free to tell me!
 
 
